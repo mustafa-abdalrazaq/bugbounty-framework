@@ -11,6 +11,30 @@ A free, open-source alternative to Burp Suite Community, Caido, and pieces of Ka
 
 ---
 
+## 📸 Screenshots
+
+### Dashboard & Automated Workflow
+![Dashboard](docs/screenshots/01-dashboard.png)
+![Workflow](docs/screenshots/02-workflow.png)
+
+### Live Recon Tools
+![Passive Recon](docs/screenshots/03-passive-recon.png)
+![HTTP Inspector](docs/screenshots/04-http-inspector.png)
+![Secret Scanner](docs/screenshots/09-secret-scanner.png)
+
+### Toolbox (17 in-browser tools)
+![HTTP Request Builder](docs/screenshots/05-toolbox-request.png)
+![Vulnerability Scanner](docs/screenshots/06-toolbox-vuln-scanner.png)
+![JWT Tool](docs/screenshots/07-toolbox-jwt.png)
+![Encoder / Decoder](docs/screenshots/08-toolbox-encoder.png)
+
+### Engagement Tracking
+![Vulnerabilities](docs/screenshots/11-vulnerabilities.png)
+![Payload Library](docs/screenshots/10-payloads.png)
+![Checklists](docs/screenshots/12-checklists.png)
+
+---
+
 ## 🔑 Keywords
 
 `bug bounty` · `bugbounty framework` · `pentesting toolkit` · `penetration testing` · `web security` · `ethical hacking` · `cybersecurity tools` · `kali linux alternative` · `burp suite alternative` · `caido alternative` · `web vulnerability scanner` · `nuclei alternative` · `subdomain enumeration` · `subdomain takeover` · `XSS scanner` · `SQL injection scanner` · `SSRF tester` · `LFI scanner` · `path traversal` · `open redirect` · `JWT cracker` · `JWT decoder` · `hash cracker` · `secret scanner` · `JS endpoint extractor` · `directory bruteforce` · `parameter discovery` · `WAF detector` · `CORS misconfiguration` · `CSP analyzer` · `cookie analyzer` · `recon tool` · `OSINT` · `crt.sh subdomain enum` · `wayback machine` · `payload library` · `XSS payloads` · `SQLi payloads` · `CTF tools` · `red team` · `blue team` · `infosec` · `hacker tools` · `online security scanner` · `browser pentesting` · `no-install hacking tools` · `react security app` · `HackerOne` · `Bugcrowd` · `Intigriti` · `Synack`
