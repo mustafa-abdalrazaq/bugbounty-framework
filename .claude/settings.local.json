@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install *)",
+      "Bash(node -e \"import\\('./src/lib/tools.js'\\).then\\(m => console.log\\('tools.js OK, exports:', Object.keys\\(m\\).join\\(', '\\)\\)\\)\")",
+      "Bash(npm run *)",
+      "Bash(gh auth *)",
+      "Bash(git init *)",
+      "Bash(git add *)",
+      "Bash(git -c user.email=mustafa-abdalrazaq@users.noreply.github.com -c user.name=mustafa-abdalrazaq commit -m 'Initial commit: Bug Bounty Framework v4.0 *)"
+    ]
+  }
+}
